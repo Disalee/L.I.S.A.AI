@@ -1,5 +1,5 @@
-# GalaxyAI
-This is my voice assistant made with MyCroft for the Raspberry Pi called GalaxyAI
+# L.I.S.A.
+This is my voice assistant made with MyCroft for the Raspberry Pi called L.I.S.A.
 
 
 
