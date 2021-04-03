@@ -10,4 +10,4 @@ This is where the logo color and font come from too.
 ![BLΛƆKPIИK(JPG)](https://user-images.githubusercontent.com/65157905/113273885-5e276580-92dd-11eb-82b4-1634bb40a267.jpg)
 
 
-Yes, I will continue to use pictures of Lisa and other BLACKPINK girls.
+Yes, I will continue to use pictures of Lisa and the other BLACKPINK girls.
