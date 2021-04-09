@@ -3,6 +3,8 @@ This is my voice assistant made with MyCroft for the Raspberry Pi called L.I.S.A
 
 <img src="https://user-images.githubusercontent.com/65157905/113275663-4bae2b80-92df-11eb-9a1a-1d8d918dd51a.png" width="100" height="175">
 
+If you want  to know more about MyCroft: https://mycroft.ai/
+
 L.I.S.A. means Laughingly Intelligent Self Assistant. The inspiration for the name came from Lalisa Manoban aka Lisa of the korean girlgroup BLACKPINK.
 
 This is where the logo color and font come from too. 
