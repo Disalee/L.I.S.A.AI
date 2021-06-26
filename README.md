@@ -1,11 +1,11 @@
-# L.I.S.A.
-This is my voice assistant made with MyCroft for the Raspberry Pi called L.I.S.A.
+# L.I.S.A. AI
+This is my voice assistant made with MyCroft for the Raspberry Pi called L.I.S.A. AI
 
 <img src="https://user-images.githubusercontent.com/65157905/113275663-4bae2b80-92df-11eb-9a1a-1d8d918dd51a.png" width="100" height="175">
 
 If you want  to know more about MyCroft: https://mycroft.ai/
 
-L.I.S.A. means Laughingly Intelligent Self Assistant. The inspiration for the name came from Lalisa Manoban aka Lisa of the korean girlgroup BLACKPINK.
+L.I.S.A. AI means Laughingly Intelligent Smart Assistant. The inspiration for the name came from Lalisa Manoban aka Lisa of the korean girlgroup BLACKPINK.
 
 This is where the logo color and font come from too. 
 
@@ -17,4 +17,4 @@ Yes, I will continue to use pictures of Lisa and the other BLACKPINK girls.
 
 <img src="https://user-images.githubusercontent.com/65157905/113872563-46a41d00-97b4-11eb-959d-00f8c5e717d1.png" width="50" height="50"> 
 Get our sister projekt J.I.S.O.O.
-https://inlandgalaxy.github.io/J.I.S.O.O./
+
